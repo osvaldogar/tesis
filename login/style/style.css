@@ -1,0 +1,19 @@
+*{
+    background-image: url("../style/fondo.png");
+}
+
+form{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+nav{
+    display: flex;
+}
+.salida{
+    margin-left: auto;
+}
